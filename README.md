@@ -1,6 +1,6 @@
 # entity_based_sentiment_analysis-using_two_input_model
 
-Compared to Image Classification this was a relatively new topic for me(sentiment analysis was not but entity based sentiment analysis was)<br>
+
 I started by reading online that is why I came to know of various approaches and transformer based approach being the best<br>
 My approach is as follows:<br>
 Convert each of the input review and target entity to glove vectors<br>
